@@ -16,7 +16,7 @@
     <img align="center" alt="html" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />      
   </div></br>
 
-  Apaixonado por TI desde criança, atualmente faço Análise e Desenvolvimento de Sistemas, trilhando um caminho na programação, buscando resolver problemas atráves da tecnologia. 🚀
+  Apaixonado por TI desde criança, estudante de Análise e Desenvolvimento de Sistemas, trilhando um caminho na programação em busca da resolução de problemas atráves da tecnologia. 🚀
 
   ## Email: 
   andersonefrens.dev@outlook.com   <img align="center" alt="html" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
